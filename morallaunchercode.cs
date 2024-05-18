@@ -1,4 +1,4 @@
-Enjoy Launch code
+//Enjoy Launch code
 public async void Launch()
 	{
 		try
